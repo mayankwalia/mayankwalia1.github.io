@@ -1,6 +1,5 @@
 # Welcome
 > I am Mayank Walia, a student of IIT Madras pursuing B.Sc. Programming and Data Science . I am also a 2nd year Mathematics Honours Student. I love to play with mathematics and data.
-<samp>csfsfasf adsdas sasa</samp>
 ***
 - Dehradun, Uttarakhand, India
 - [LinkedIn](https://www.linkedin.com/in/walia-mayank)
