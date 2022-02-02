@@ -2,10 +2,10 @@
 > I am Mayank Walia, a student of IIT Madras pursuing B.Sc. Programming and Data Science . I am also a 2nd year Mathematics Honours Student. I love to play with mathematics and data.
 
 - Dehradun, Uttarakhand, India
-- [LinkedIn](https://www.linkedin.com/in/walia-mayank)
-- [Codechef](https://www.codechef.com/users/mayankwalia) / [Hackerrank](https://www.hackerrank.com/MAYANKWALIA)
+- [LinkedIn]()
+- [Codechef]() / [Hackerrank]()
 - [Github](https://github.com/mayankwalia/)
-- [Mail](mailto:mayankwalia3110@gmail.com)
+- [Mail]()
 
 ---
 # EDUCATION
